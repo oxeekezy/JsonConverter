@@ -1,5 +1,5 @@
 {
-    "name": "mggflow/transliterator",
+    "name": "oxeek/jsonconverter",
     "description": "Tool for text transliteration by replacement relations.",
     "type": "library",
     "license": "MIT",
